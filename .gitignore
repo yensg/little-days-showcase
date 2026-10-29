@@ -1,0 +1,15 @@
+# This is a documentation-only showcase.
+.DS_Store
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.pem
+*.key
+node_modules/
+private/
+backups/
+.dialogue/
+.agents/
